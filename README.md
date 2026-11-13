@@ -88,7 +88,7 @@ Three new features were engineered to improve downstream predictive model accura
 ## Step 10: How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/shivchef/Data-Prepration-and-analysis-on-California-housing-test-dataset-.git
    ```
 2. Install the dependencies:
    ```bash
